@@ -1,1 +1,2 @@
-# Core_JavaScript
+# demo-js
+A JavaScript project
